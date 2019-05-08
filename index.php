@@ -1,3 +1,5 @@
+<?php
+
 var ipAddr = req.headers["x-forwarded-for"];
   if (ipAddr){
     var list = ipAddr.split(",");
@@ -5,7 +7,6 @@ var ipAddr = req.headers["x-forwarded-for"];
   } else {
     ipAddr = req.connection.remoteAddress;
   }
-<?php
 
 //ADVANCED fraudfilter.io TEMPLATE
 error_reporting(0);
