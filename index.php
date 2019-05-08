@@ -1,4 +1,4 @@
 <?php
-        echo "<script> location.href='https://www.aliexpress.com/'; </script>";
+        echo "<script> location.href='https://allspeedruns.com/'; </script>";
         exit;
 ?>
