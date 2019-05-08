@@ -1,4 +1,4 @@
 <?php
-header("Location: https://tracking.allspeedruns.com/");
+header("Location: https://www.aliexpress.com/");
 exit();
 ?>
