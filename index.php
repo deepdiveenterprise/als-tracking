@@ -1,4 +1,4 @@
 <?php
-        echo "<script> location.href='https://allspeedruns.com/'; </script>";
+        echo "<script> location.href='https://tracking.allspeedruns.com/'; </script>";
         exit;
 ?>
